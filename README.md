@@ -1,4 +1,4 @@
-# Contact book, part 2
+# Contact book, part 3 using react hooks
 
 Added storing phonebook contacts in localStorage. Component life cycle methods used.
 
